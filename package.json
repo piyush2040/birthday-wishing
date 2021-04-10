@@ -1,0 +1,21 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyush2040/birthday-wishing.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Piyush Sharma",
+  "license": "",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
